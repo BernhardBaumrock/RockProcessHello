@@ -6,8 +6,8 @@
  * @license Licensed under MIT
  */
 $info = [
-  'title' => 'Hello: Process Module Example',
-  'summary' => 'A starting point module skeleton from which to build your own Process module.',
+  'title' => 'ProcessHello Process Module',
+  'summary' => 'ProcessHello Process Module.',
   'version' => 1,
   'author' => '#author#',
   'icon' => '#icon#',
