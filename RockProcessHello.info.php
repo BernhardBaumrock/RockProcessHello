@@ -1,13 +1,13 @@
 <?php namespace ProcessWire;
 /**
- * ProcessHello Info
+ * RockProcessHello Info
  *
  * @author #author#, #date#
  * @license Licensed under MIT
  */
 $info = [
-  'title' => 'ProcessHello Process Module',
-  'summary' => 'ProcessHello Process Module.',
+  'title' => 'RockProcessHello Process Module',
+  'summary' => 'RockProcessHello Process Module.',
   'version' => 1,
   'author' => '#author#',
   'icon' => '#icon#',

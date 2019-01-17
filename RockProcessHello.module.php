@@ -1,11 +1,11 @@
 <?php namespace ProcessWire;
 /**
- * ProcessHello Module
+ * RockProcessHello Module
  *
  * @author #author#, #date#
  * @license Licensed under MIT
  */
-class ProcessHello extends Process {
+class RockProcessHello extends Process {
 
   /**
    * Init. Optional.

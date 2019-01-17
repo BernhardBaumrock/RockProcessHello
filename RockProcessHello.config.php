@@ -1,11 +1,11 @@
 <?php namespace ProcessWire;
 /**
- * ProcessHello Config
+ * RockProcessHello Config
  *
  * @author #author#, #date#
  * @license Licensed under MIT
  */
-class ProcessHelloConfig extends ModuleConfig {
+class RockProcessHelloConfig extends ModuleConfig {
 
   public function __construct() {
 
